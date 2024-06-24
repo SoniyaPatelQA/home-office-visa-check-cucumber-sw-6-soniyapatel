@@ -1,0 +1,108 @@
+2024-06-23 12:06:223 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-23 12:06:759 INFO  StartPage :46 - click on StartNow button
+2024-06-23 12:06:608 INFO  ManageBrowser :51 - Close Browser
+2024-06-23 12:06:821 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-23 12:06:141 INFO  StartPage :46 - click on StartNow button
+2024-06-23 12:06:222 INFO  SelectNationalityPage :36 - Select Australia nationality from Nationality dropdown field
+2024-06-23 12:06:298 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:438 INFO  ReasonForTravelPage :36 - Select Tourism or visiting family and friends from What are you coming to the UK to do? radio options field
+2024-06-23 12:06:619 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:641 INFO  ResultPage :23 - Get visa check outcome message
+2024-06-23 12:06:648 INFO  ResultPage :30 - Verify result message
+2024-06-23 12:06:813 INFO  ManageBrowser :51 - Close Browser
+2024-06-23 12:06:863 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-23 12:06:215 INFO  StartPage :46 - click on StartNow button
+2024-06-23 12:06:290 INFO  SelectNationalityPage :36 - Select Chile nationality from Nationality dropdown field
+2024-06-23 12:06:420 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:579 INFO  ReasonForTravelPage :36 - Select Work, academic visit or business from What are you coming to the UK to do? radio options field
+2024-06-23 12:06:706 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:807 INFO  DurationOfStayPage :44 - Selectlonger than 6 months option from duration of stay field
+2024-06-23 12:06:951 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:24 INFO  WorkType :36 - Select Health and care professional type from planning to work in any job types radio options field
+2024-06-23 12:06:189 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:234 INFO  ResultPage :23 - Get visa check outcome message
+2024-06-23 12:06:243 INFO  ResultPage :30 - Verify result message
+2024-06-23 12:06:384 INFO  ManageBrowser :51 - Close Browser
+2024-06-23 12:06:392 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-23 12:06:712 INFO  StartPage :46 - click on StartNow button
+2024-06-23 12:06:798 INFO  SelectNationalityPage :36 - Select Dominica nationality from Nationality dropdown field
+2024-06-23 12:06:929 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:80 INFO  ReasonForTravelPage :36 - Select Join partner or family for a long stay from What are you coming to the UK to do? radio options field
+2024-06-23 12:06:203 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:294 INFO  FamilyImmigrationStatusPage :43 - SelectYes option from immigration status field
+2024-06-23 12:06:415 INFO  SelectNationalityPage :43 - Click on Continue button
+2024-06-23 12:06:460 INFO  ResultPage :23 - Get visa check outcome message
+2024-06-23 12:06:460 INFO  ResultPage :30 - Verify result message
+2024-06-23 12:06:612 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 17:06:715 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 17:06:485 INFO  StartPage :44 - click on StartNow button
+2024-06-24 17:06:445 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 17:06:401 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 17:06:879 INFO  StartPage :44 - click on StartNow button
+2024-06-24 17:06:27 INFO  SelectNationalityPage :35 - Select Australia nationality from Nationality dropdown field
+2024-06-24 17:06:238 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:334 INFO  ReasonForTravelPage :36 - Select Tourism or visiting family and friends from What are you coming to the UK to do? radio options field
+2024-06-24 17:06:506 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:620 INFO  ResultPage :22 - Get visa check outcome messageYou will not need a visa to come to the UK
+2024-06-24 17:06:634 INFO  ResultPage :29 - Verify result message
+2024-06-24 17:06:946 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 17:06:712 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 17:06:170 INFO  StartPage :44 - click on StartNow button
+2024-06-24 17:06:307 INFO  SelectNationalityPage :35 - Select Chile nationality from Nationality dropdown field
+2024-06-24 17:06:468 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:604 INFO  ReasonForTravelPage :36 - Select Work, academic visit or business from What are you coming to the UK to do? radio options field
+2024-06-24 17:06:747 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:849 INFO  DurationOfStayPage :43 - Selectlonger than 6 months option from duration of stay field
+2024-06-24 17:06:989 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:93 INFO  WorkType :35 - Select Health and care professional type from planning to work in any job types radio options field
+2024-06-24 17:06:463 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:547 INFO  ResultPage :22 - Get visa check outcome messageYou need a visa to work in health and care
+2024-06-24 17:06:559 INFO  ResultPage :29 - Verify result message
+2024-06-24 17:06:745 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 17:06:270 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 17:06:823 INFO  StartPage :44 - click on StartNow button
+2024-06-24 17:06:980 INFO  SelectNationalityPage :35 - Select Dominica nationality from Nationality dropdown field
+2024-06-24 17:06:211 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:392 INFO  ReasonForTravelPage :36 - Select Join partner or family for a long stay from What are you coming to the UK to do? radio options field
+2024-06-24 17:06:534 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:642 INFO  FamilyImmigrationStatusPage :42 - SelectYes option from immigration status field
+2024-06-24 17:06:793 INFO  SelectNationalityPage :41 - Click on Continue button
+2024-06-24 17:06:860 INFO  ResultPage :22 - Get visa check outcome messageYou’ll need a visa to join your family or partner in the UK
+2024-06-24 17:06:873 INFO  ResultPage :29 - Verify result message
+2024-06-24 17:06:81 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 18:06:629 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 18:06:935 INFO  StartPage :20 - click on StartNow button
+2024-06-24 18:06:103 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 18:06:684 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 18:06:575 INFO  StartPage :20 - click on StartNow button
+2024-06-24 18:06:796 INFO  SelectNationalityPage :34 - Select Australia nationality from Nationality dropdown field
+2024-06-24 18:06:947 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:202 INFO  ReasonForTravelPage :34 - Select Tourism or visiting family and friends from What are you coming to the UK to do? radio options field
+2024-06-24 18:06:351 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:534 INFO  ResultPage :21 - Get visa check outcome messageYou will not need a visa to come to the UK
+2024-06-24 18:06:549 INFO  ResultPage :28 - Verify result message
+2024-06-24 18:06:962 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 18:06:252 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 18:06:108 INFO  StartPage :20 - click on StartNow button
+2024-06-24 18:06:335 INFO  SelectNationalityPage :34 - Select Chile nationality from Nationality dropdown field
+2024-06-24 18:06:521 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:740 INFO  ReasonForTravelPage :34 - Select Work, academic visit or business from What are you coming to the UK to do? radio options field
+2024-06-24 18:06:942 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:72 INFO  DurationOfStayPage :42 - Selectlonger than 6 months option from duration of stay field
+2024-06-24 18:06:173 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:320 INFO  WorkType :34 - Select Health and care professional type from planning to work in any job types radio options field
+2024-06-24 18:06:565 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:632 INFO  ResultPage :21 - Get visa check outcome messageYou need a visa to work in health and care
+2024-06-24 18:06:667 INFO  ResultPage :28 - Verify result message
+2024-06-24 18:06:54 INFO  ManageBrowser :51 - Close Browser
+2024-06-24 18:06:478 INFO  ManageBrowser :30 - Chrome Browser Launch ...
+2024-06-24 18:06:116 INFO  StartPage :20 - click on StartNow button
+2024-06-24 18:06:292 INFO  SelectNationalityPage :34 - Select Dominica nationality from Nationality dropdown field
+2024-06-24 18:06:448 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:801 INFO  ReasonForTravelPage :34 - Select Join partner or family for a long stay from What are you coming to the UK to do? radio options field
+2024-06-24 18:06:434 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:467 INFO  FamilyImmigrationStatusPage :41 - SelectYes option from immigration status field
+2024-06-24 18:06:584 INFO  SelectNationalityPage :40 - Click on Continue button
+2024-06-24 18:06:774 INFO  ResultPage :21 - Get visa check outcome messageYou’ll need a visa to join your family or partner in the UK
+2024-06-24 18:06:858 INFO  ResultPage :28 - Verify result message
+2024-06-24 18:06:733 INFO  ManageBrowser :51 - Close Browser
